@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ArchBishop009/ArchBishop009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Currently a Computer Science Student at Ahmadu Bello University Specialized in Cloud/Devops Computing and im currently enrolled in the Alx Cloud Engineering Program. I am experienced in Cloud Networking, Security and Infrastructure.
 
 Here are some ideas to get you started:
 
