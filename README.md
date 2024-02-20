@@ -1,4 +1,4 @@
-![20240209_033934](https://github.com/ArchBishop009/ArchBishop009/assets/144915258/f43066ba-6ba2-47cc-88d3-ce2f2af85133)
+![20240209_033934](https://github.com/heCloudLord/heCloudLord/assets/144915258/f43066ba-6ba2-47cc-88d3-ce2f2af85133)
 <h1 align="center">Hi there 👋, I am Ayo</h1>
 <h3 align="center">An Aspiring Cloud DevOps Engineer. </h3>
 <br/>
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomide-ogunsanya-76895a2a8/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TheCloudLord/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348132162520)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/thecloudlord_)
 
@@ -92,7 +92,6 @@ Name | Badges
 
 
  ----
-## **Credits: <a href="https://www.linkedin.com/in/
-TheCloudLord/"><b>Ayomide Ogunsanya</b></a>**
+## **Credits: <a href="https://www.linkedin.com/in/TheCloudLord/"><b>Ayomide Ogunsanya</b></a>**
 
 Last Edited on: 20/07/2023
