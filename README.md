@@ -1,4 +1,6 @@
-![20240209_033934](https://github.com/TheCloudLord/TheCloudLord/assets/144915258/f43066ba-6ba2-47cc-88d3-ce2f2af85133)
+<! --![20240209_033934](https://github.com/TheCloudLord/TheCloudLord/assets/144915258/f43066ba-6ba2-47cc-88d3-ce2f2af85133) -->
+![1500x500 Twitter Banner V1](https://pbs.twimg.com/profile_banners/1742932411988729856/1707446693/1500x500)
+
 
 <h1 align="center">Hi there 👋, I am Ayo</h1>
 <h3 align="center">An Aspiring Cloud DevOps Engineer. </h3>
