@@ -1,12 +1,12 @@
 ![1500x500 Twitter Banner V1](https://pbs.twimg.com/profile_banners/1742932411988729856/1707446693/1500x500)
 
 
-<h1 align="center">Hi there 👋,  I am Ayo nicknamed TheCloudLord☁️</h1>
+<h1 align="center">Hi there 👋,  I am Ayo aka TheCloudLord☁️</h1>
 <h3 align="center">An Aspiring Cloud DevOps Engineer. </h3>
 <br/>
 
 
-I'm Currently a Computer Science Student at Ahmadu Bello University Specialized in Cloud/Devops Computing and i'm currently enrolled in the Alx Cloud Engineering Program. I'm experienced in Cloud Networking, Security and Infrastructure.
+I'm Currently a Computer Science Student at Ahmadu Bello University Specialized in Cloud/Devops Computing and also currently enrolled in the Alx Cloud Engineering Program. I'm experienced in Cloud Networking, Security, Infrastructure and also zealous about leveraging innovative technology in Cloud Services.
 
 Here are some ideas to get you started:
 
