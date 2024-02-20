@@ -4,11 +4,11 @@
 <br/>
 
 
-I'm Currently a Computer Science Student at Ahmadu Bello University Specialized in Cloud/Devops Computing and im currently enrolled in the Alx Cloud Engineering Program. I am experienced in Cloud Networking, Security and Infrastructure.
+I'm Currently a Computer Science Student at Ahmadu Bello University Specialized in Cloud/Devops Computing and i'm currently enrolled in the Alx Cloud Engineering Program. I'm experienced in Cloud Networking, Security and Infrastructure.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on hosting a static website on Amazon s3
+- 🔭 I’m currently working on Hosting/Deploying a Static Website using Amazon S3 and Cloudfront
 - 🌱 I’m currently learning Cloud/Devops Computing
 - 👯 I’m looking to collaborate on deploying a Microservices Web Application using AWS as the cloud provider 
 - 🤔 I’m looking for help with infrastructure automation and Architectural Frameworkk
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomide-ogunsanya-76895a2a8/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348132162520)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/cloudlord_)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/thecloudlord_)
 
 
 <hr>
