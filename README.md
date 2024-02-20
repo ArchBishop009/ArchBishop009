@@ -1,4 +1,5 @@
-![20240209_033934](https://github.com/heCloudLord/heCloudLord/assets/144915258/f43066ba-6ba2-47cc-88d3-ce2f2af85133)
+![20240209_033934](https://github.com/TheCloudLord/TheCloudLord/assets/144915258/f43066ba-6ba2-47cc-88d3-ce2f2af85133)
+
 <h1 align="center">Hi there 👋, I am Ayo</h1>
 <h3 align="center">An Aspiring Cloud DevOps Engineer. </h3>
 <br/>
