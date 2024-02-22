@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Cloud Networking, Security and Infrastructure
 - 📫 How to reach me: ayomideogunsanya@gmail.com
 - 😄 Pronouns: Him/he
-- ⚡ Fun fact: I love Black ♠️ - I'm a Pro Bass Guitar Player🎸 - Basketball enthusiast 🏀 - 
+- ⚡ Fun fact: I love Black ♠️ - I'm a Pro Bass Guitar Player🎸 - Basketball enthusiast 🏀 - I do Triathlon 🏊🏻‍♀️🚴🏻‍♀️🏃🏽
   
 <hr>
 <br>
